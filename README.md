@@ -1,5 +1,15 @@
 # Obituary-web-scraper
+Of Andrew Earl 9-28-2024
+
 TLDR: Hard coded webscraper for names of obituaries from the post and curior in the charleston area
+
+Requires various python modules, request, json, os, date, and csv
+
+Done in python 3.10
+
+To modify it for anywhere else you might as well make your own web scraper honestly.
+Again its hard coded so you would need to refactor a lot for a new target. Especially
+with the json expectations.
 
 When participating in the charleston tax sale 2024 I wanted to compare the owner names of the 
 properties listed vs the listings of obituaries in the charleston area. To see who died and 
