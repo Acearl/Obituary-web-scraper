@@ -21,4 +21,4 @@ https://www.charlestoncounty.org/departments/delinquent-tax/tax-sale.php
 kinda morbid I know. But its a utility I liked making and found useful as pre research for 
 the upcoming tax sale. It took much longer than I expected to make it tbh. Apparently
 This paticular website doesnt hide the api requests to only be from the webpage itself.
-So the data can be queried directly. Not how I would have done the website but who knows.
+So the data can be queried directly. Which is a security vulnerability on their end.
